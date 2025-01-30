@@ -2,3 +2,13 @@
  * @file
  * Subtheme specific CSS.
  */
+
+ body {
+    background-color: #ff0000;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #ff0000;
+  }
+  
