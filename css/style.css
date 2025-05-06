@@ -3,12 +3,15 @@
  * Subtheme specific CSS.
  */
 
- body {
-    background-color: #ff0000;
-    font-family: Arial, sans-serif;
-  }
+
   
-  h1 {
-    color: #ff0000;
+  .navbar {
+    background: #B6EDFF;
+  }               
+
+  .layout-main-wrapper {
+    background-color: #FEFEFE;
+    padding-top: 0.5rem;
   }
+
   
