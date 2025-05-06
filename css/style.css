@@ -9,9 +9,39 @@
     background: #B6EDFF;
   }               
 
-  .layout-main-wrapper {
-    background-color: #FEFEFE;
-    padding-top: 0.5rem;
+  .page-wrapper {
+    background: #B6EDFF;
   }
 
-  
+  .layout-main-wrapper {
+    background-color: #191970;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  .highlighted {
+    background-color: #191970;
+  }
+
+  .node--view-mode-teaser {
+    background: #FEFEFE;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    opacity: 75%;
+  }
+
+  section.section {
+    background: #FEFEFE;
+    padding: 0.5rem;
+    border-radius: 0.45rem;
+    opacity: 75%;
+  }
+
+  ul.navbar-nav {
+    background: #FEFEFE;
+    border-radius: 0.25rem;
+  }
+  ul.flex-row > .nav-item {
+    background: #FEFEFE;
+    border-radius: 0.25rem;
+    margin-right: 1rem;
+  }
